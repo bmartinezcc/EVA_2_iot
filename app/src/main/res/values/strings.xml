@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EVA_2 Acceso IoT</string>
+
+    <string name="label_login">Iniciar sesión</string>
+    <string name="label_panel">Panel de acceso</string>
+    <string name="label_historial">Historial</string>
+
+    <string name="titulo_login">Control de acceso IoT</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña (mín. 8, letras y números)</string>
+    <string name="btn_iniciar">Iniciar sesión</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="link_ir_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="link_ir_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <string name="titulo_clave">Ingresar clave temporal</string>
+    <string name="hint_clave">Clave de 6 dígitos</string>
+    <string name="btn_validar">Validar clave</string>
+    <string name="btn_refrescar">Actualizar estado</string>
+    <string name="titulo_generar">Generar clave temporal (ADMIN)</string>
+    <string name="hint_minutos">Vigencia en minutos (1 a 60)</string>
+    <string name="btn_generar">Generar clave</string>
+    <string name="btn_historial">Ver historial</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+    <string name="sin_datos">Sin eventos registrados</string>
+    <string name="error_red">No se pudo conectar con el servidor. Revisa la red WiFi y la IP de la Raspberry</string>
+</resources>
